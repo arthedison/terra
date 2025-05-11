@@ -8,7 +8,7 @@ terraform {
 
 provider "iosxe" {
   username = "admin"
-  password = "C1sc0123"
+  password = "pass"
   url      = "https://10.51.51.1"
 }
 
